@@ -1,0 +1,27 @@
+name: Simplegm
+api: 3.9.0
+main: Simplegamemode\SimplegmMain
+version: 1.2.0
+author: HappyRogelio7
+
+commands:
+   gm1:
+     description: Ponte en Creativo
+     permission: gm1.simplegm
+     use: "/gm1"
+     
+   gm0:
+     description: Ponte en Supervivencia
+     permission: gm0.simplegm
+     use: "/gm0"
+     
+   gm3:
+     description: Ponte en Espectador
+     permission: gm3.simplegm
+     use: "/gm3"
+   
+   
+   gm2:
+     description: Ponte en Aventura
+     permission: gm2.simplegm
+     use: "/gm2"
